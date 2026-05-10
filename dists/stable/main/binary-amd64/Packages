@@ -1,0 +1,13 @@
+Package: SAPT
+Version: 1.0.0
+Architecture: amd64
+Maintainer: oczkowodne1234 <oczkowodne1234@gmail.com>
+Filename: pool/main/u/sapt/sapt_1.0.deb
+Size: 5080
+MD5sum: 13bdd04c0b23b01c959bdd6edac61de6
+SHA1: 1ceebcdbea23c36b1251951c0a284f868a78dbc4
+SHA256: c55ebe18d2aca9b7499d910b7f1dd8e2ca2f445873a0815789542cb3d26e78c3
+Section: utils
+Priority: optional
+Description: SPAPT is a wrapper for apt that eases the installation with apt without typing sudo apt ..... all the time
+
